@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name footp1)(type Github)(uri https://github.com/cpavlina/kicad-pcblib)(options "")(descr ""))
+  (lib (name footp2)(type Github)(uri https://github.com/peterpolidoro/kicad-libraries)(options "")(descr ""))
+  (lib (name Zavonice_footprint)(type KiCad)(uri "D:/Users/BEAST/Desktop/Zavrsni rad/libraries/Zavojnice-footprint.pretty")(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri "D:/Users/BEAST/Desktop/Zavrsni rad/libraries/FER.pretty")(options "")(descr ""))
+  (lib (name LED)(type KiCad)(uri "D:/Users/BEAST/Desktop/Zavrsni rad/libraries/LED-green.pretty")(options "")(descr ""))
+)
